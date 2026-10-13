@@ -9,8 +9,7 @@
 - **Nicolò Visentini**
 - **Riccardo Gianesella**
 
-*Class: 5F (School Year 2025/2026)
-
+*Class: 5F (School Year 2025/2026)*
 ---
 
 ## ✨ Features
