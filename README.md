@@ -5,9 +5,9 @@
 ---
 
 ## 👥 Authors
-- **Francesco Marchetto**[cite: 3, 4, 5]
-- **Nicolò Visentini**[cite: 3, 4, 5]
-- **Riccardo Gianesella**[cite: 3, 4, 5]
+- **Francesco Marchetto**
+- **Nicolò Visentini**
+- **Riccardo Gianesella**
 
 *Class: 5F (School Year 2025/2026)*[cite: 3, 4, 5]
 
